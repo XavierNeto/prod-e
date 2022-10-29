@@ -1,0 +1,35 @@
+{
+  "name": "prod-e",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@fontsource/roboto": "^4.5.8",
+    "@mui/icons-material": "^5.10.3",
+    "@mui/material": "^5.10.5",
+    "@tanstack/react-query": "^4.7.1",
+    "axios": "^0.27.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-input-mask": "^2.0.4",
+    "react-message-popup": "^1.0.0",
+    "react-router-dom": "^6.4.1",
+    "reactjs-popup": "^2.0.5",
+    "sass": "^1.55.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "@vitejs/plugin-react": "^2.0.1",
+    "eslint": "^8.23.1",
+    "eslint-plugin-react": "^7.31.8",
+    "vite": "^3.0.7"
+  }
+}
