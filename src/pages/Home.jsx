@@ -31,7 +31,7 @@ export default function Home() {
             Prod-E
           </Typography>
           <Typography variant="h5" component="h2" gutterBottom>
-            O Gnosis é uma aplicação que serve para alunos e professores terem
+            A Prod-E é uma aplicação que serve para alunos e professores terem
             uma noção de suas produtividades.
           </Typography>
           <Typography variant="h5" component="h2" gutterBottom>
